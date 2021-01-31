@@ -1,5 +1,7 @@
 # Binary-search-tree-implementation
 
+[![license](https://img.shields.io/badge/license-MIT-%23F65314?style=flat-square)](LICENSE)
+
 In this part, your job will be to implement various forms of tree data structures and various related algorithms. You will create a binary search tree.
 
 ### Overview 
